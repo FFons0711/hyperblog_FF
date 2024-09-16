@@ -1,2 +1,2 @@
 # hyperblog
-This is a repositoty for the GIt and Github course of Platzi
+This is a repositoty for the Git and Github's course of Platzi
